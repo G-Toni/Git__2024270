@@ -4,7 +4,6 @@
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Gerson - 2024270");
-        String s = new String("It's going to be an incredible year!");
+        String s = new String("Gerson - 2024270 - It's going to be an incredible year!");
     }
 }
